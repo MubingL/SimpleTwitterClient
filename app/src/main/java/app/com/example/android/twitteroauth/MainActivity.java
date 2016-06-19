@@ -59,8 +59,8 @@ public class MainActivity extends AppCompatActivity {
     private AccessToken accessToken = null;
     private RequestToken requestToken;
     private SharedPreferences mSharedPreferences; //preference manager
-
     private User user;
+
     @BindView(R.id.btnLoginTwitter)
     Button btnLoginTwitter;
     @BindView(R.id.btnLogoutTwitter)

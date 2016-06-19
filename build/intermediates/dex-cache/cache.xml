@@ -1,2 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/mubingliu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_ae1405df9004516c112c85e84b042038f9124e21.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_0b78ad743a8c35bc6ceb3fbfc97af52a6a6aae33.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_4e0281db8b46b9cabb707fa0cb06099513a95c1c.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_a8df0b227430c4a575e81e48fc9001973334cc60.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5e5e89b8962abedb585193f65f130ae4629757c5.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/com.jakewharton.timber-timber-4.1.2_1a01d809f2778e0e1622f65a9640c64f034ddb9e.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/libs/twitter4j-core-4.0.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f4ac5989c7be37249dfe310bf78ba69773ebce2d">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.4_c07078ed83491b6b2e42d4f5c6465fc6ebcc6c7e.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_aa9519a4cd32bebb1322458d09b0c8d5a94c6760.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="800456ff7459edf31e780604a318741d0f8ace09">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/com.koushikdutta.ion-ion-2.1.8_21452920043359e8c0a50fd033402177c285d0d3.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/gson-2.3_334c06cef685c40744fc970cd5d4023644d37154.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_764e230319258fd5a17ddc86f80fa25a9165dee5.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.1.0_16157de35ae1cdd3151954c6160da279c3542e9a.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.1.0_9e0d354695250bd9927e86d8c646654dbf1db59b.jar" />
+    </item>
+    <item
+        jar="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="210a4042913301c708bd9aeed46e4ebb5d77e462">
+        <dex dex="/Users/mubingliu/AndroidStudioProjects/TwitterClientPresentation/app/build/intermediates/pre-dexed/debug/com.koushikdutta.async-androidasync-2.1.8_002ecc1ed737ffaf35aa5fae0a8ca4530459d498.jar" />
+    </item>
+
+</items>
